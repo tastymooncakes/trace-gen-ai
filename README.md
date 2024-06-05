@@ -181,18 +181,15 @@ On-chain records showcase license, miningPreference, AI models used, creator, an
 ## More Examples
 
 ### Pokemon Trainer
-https://verify.numbersprotocol.io/asset-profile/bafybeicrznkjxdtoytakguumd3e6fpbqyef47f3d6nmaedoikh5xlng7ci?nid=bafybeicrznkjxdtoytakguumd3e6fpbqyef47f3d6nmaedoikh5xlng7ci
-
-https://verify.numbersprotocol.io/asset-profile/bafybeierxlqeuk4druqklie6chi3emklqwzmmowux46sl6svsi4tab4umi?nid=bafybeierxlqeuk4druqklie6chi3emklqwzmmowux46sl6svsi4tab4umi
-
-https://verify.numbersprotocol.io/asset-profile/bafybeigvvlnwu7vtuespxjopuuncfwu3z2ikcvlgkuo7vdnofp7bk7znju-1?nid=bafybeigvvlnwu7vtuespxjopuuncfwu3z2ikcvlgkuo7vdnofp7bk7znju
+https://verify.numbersprotocol.io/asset-profile/bafybeicrznkjxdtoytakguumd3e6fpbqyef47f3d6nmaedoikh5xlng7ci
+https://verify.numbersprotocol.io/asset-profile/bafybeierxlqeuk4druqklie6chi3emklqwzmmowux46sl6svsi4tab4umi
+https://verify.numbersprotocol.io/asset-profile/bafybeigvvlnwu7vtuespxjopuuncfwu3z2ikcvlgkuo7vdnofp7bk7znju
 
 ### Naruto
-https://verify.numbersprotocol.io/asset-profile/bafybeic5s3lhjageswexrvkigs7yqk4egsvgalfast6ebyivxrhbbmtpky?nid=bafybeic5s3lhjageswexrvkigs7yqk4egsvgalfast6ebyivxrhbbmtpky
+https://verify.numbersprotocol.io/asset-profile/bafybeic5s3lhjageswexrvkigs7yqk4egsvgalfast6ebyivxrhbbmtpky
 
 ### Luffy One Piece
-https://verify.numbersprotocol.io/asset-profile/bafybeiau77vmi2vhauctgr6usfo3rpw57fvc5evog4q4mhthtrshzkjmhi?nid=bafybeiau77vmi2vhauctgr6usfo3rpw57fvc5evog4q4mhthtrshzkjmhi
-
+https://verify.numbersprotocol.io/asset-profile/bafybeiau77vmi2vhauctgr6usfo3rpw57fvc5evog4q4mhthtrshzkjmhi
 
 ### Rukia Kuchiki
-https://verify.numbersprotocol.io/asset-profile/bafybeic57ndqhqkfpyuja37nyxje2c7f2xvejssqkndvyktpk3douwidxm?nid=bafybeic57ndqhqkfpyuja37nyxje2c7f2xvejssqkndvyktpk3douwidxm
+https://verify.numbersprotocol.io/asset-profile/bafybeic57ndqhqkfpyuja37nyxje2c7f2xvejssqkndvyktpk3douwidxm
