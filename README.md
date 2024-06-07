@@ -32,6 +32,8 @@ To better showcase Trace Gen AI pipeline, a simple demo project was created to s
 
 Application allows users to input a text prompt into the input field and will generate an image with Stable Diffusion. Users can click on provenance to navigate to the media profile page and view the commits.
 
+Demo Project URL: https://instillhackathon.bubbleapps.io/version-test/
+
 ## Outputs
 See below for an example output from the demo project
 
