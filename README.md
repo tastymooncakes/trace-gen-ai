@@ -15,11 +15,15 @@ Link: https://instill.tech/tasymooncakes/pipelines/trace_gen_ai
 Trace Gen AI pipeline is designed to assist users with no knowledge of creating effective text-to-image prompts by leveraging OpenAI's GPT3.5 to generative prompts that are fed into Stability AI's stable diffusion-xl-1024-v1-0 and registered with Numbers Protocol connector to create on-chain provenance records. These records range from creator_name, license, AI training permissions and more.
 
 Inputs: 
+
 prompt (text)
+
 creator (text)
 
 Outputs:
-final_image (imgae)
+
+final_image (image)
+
 provenance (text)
 
 <img width="1291" alt="Screenshot 2024-06-03 at 10 37 20 PM" src="https://github.com/tastymooncakes/c2pa-generative-ai/assets/171561374/957b0e04-0059-4598-b578-41327332b321">
